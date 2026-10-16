@@ -1,4 +1,4 @@
-var CACHE_NAME = "hortencia-v1";
+var CACHE_NAME = "hortencia-v2";
 var PRECACHE_URLS = [
   "./",
   "./index.html",
